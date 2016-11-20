@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "5S6-A0-MSs"; */
+"5S6-A0-MSs.placeholder" = "温度值";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "6bI-rf-flv"; */
+"6bI-rf-flv.text" = "是 真的";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "CL1-1W-Riq"; */
+"CL1-1W-Riq.text" = "摄氏度";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "IJe-75-5zw"; */
+"IJe-75-5zw.text" = "华氏温度";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "Zyq-fW-vcD"; */
+"Zyq-fW-vcD.title" = "温度转换";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "dhK-j2-uRd"; */
+"dhK-j2-uRd.title" = "地图";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "qU7-Cd-fmi"; */
+"qU7-Cd-fmi.text" = "100";
