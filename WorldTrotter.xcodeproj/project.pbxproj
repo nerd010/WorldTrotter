@@ -24,6 +24,8 @@
 		793ED10C1DE175D2009ECB8D /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		793ED10E1DE175D3009ECB8D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		793ED10F1DE175D4009ECB8D /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		793ED1101DE17A8D009ECB8D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		793ED1111DE17A8D009ECB8D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		799EF9D81DD82975009A75FE /* WorldTrotter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorldTrotter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		799EF9DB1DD82975009A75FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		799EF9E01DD82975009A75FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				en,
 				Base,
 				es,
+				"zh-Hans",
 			);
 			mainGroup = 799EF9CF1DD82975009A75FE;
 			productRefGroup = 799EF9D91DD82975009A75FE /* Products */;
@@ -176,6 +179,7 @@
 				793ED10C1DE175D2009ECB8D /* Base */,
 				793ED10E1DE175D3009ECB8D /* en */,
 				793ED10F1DE175D4009ECB8D /* es */,
+				793ED1111DE17A8D009ECB8D /* zh-Hans */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -186,6 +190,7 @@
 				799EF9E01DD82975009A75FE /* Base */,
 				79E052101DE15BF4008071FB /* en */,
 				79E052131DE16316008071FB /* es */,
+				793ED1101DE17A8D009ECB8D /* zh-Hans */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
